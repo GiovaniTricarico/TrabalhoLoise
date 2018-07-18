@@ -1,0 +1,12 @@
+body{
+	background-image: url("img/background/record-player.jpg");
+	background-attachment: fixed;
+}
+
+#Texto{
+	margin-top: 300px;
+}
+
+#Topo{
+	padding-top: 10px;
+}
